@@ -1,0 +1,1 @@
+SERVERSIDE.API 这个REPO包含了所有与客户端交互API的源码，此系统基于Microsoft .Net Framework平台，以C#为开发语言，以WebService的方式对外公开接口。开发者可以基于此源码，直接使用或进行二次开发，架设在自己的服务器端，供任意平台的操控端进行调用。（本REPO中不含数据库）
